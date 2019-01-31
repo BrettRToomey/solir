@@ -1,0 +1,5 @@
+solir
+*.o
+*.swp
+*.out
+test.c
